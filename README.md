@@ -42,19 +42,13 @@ Reads FASTA files and provides:
 
 Bioinformatics_Python_Projects/
 
-├── DNA_to_RNA/
-
-├── GC_Content/
-
-├── Reverse_Complement/
-
-├── Nucleotide_Counter/
-
-├── RNA_to_Protein/
-
-├── FASTA_Analyzer/
-
-└── README.md
+1. DNA_to_RNA
+2. GC_Content
+3. Reverse_Complement
+4. Nucleotide_Counter
+5. RNA_to_Protein
+6. FASTA_Analyzer
+7. README.md
 
 ## Author
 
