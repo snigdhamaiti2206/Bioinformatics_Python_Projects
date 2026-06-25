@@ -1,6 +1,6 @@
 # Bioinformatics Python Projects
 
-A collection of beginner-friendly bioinformatics projects developed using Python. This repository focuses on DNA, RNA, and sequence analysis applications commonly used in biotechnology and bioinformatics.
+A collection of bioinformatics projects developed using Python. This repository focuses on DNA, RNA, and sequence analysis applications commonly used in biotechnology and bioinformatics.
 
 ## Projects
 
