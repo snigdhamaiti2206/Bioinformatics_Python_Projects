@@ -38,18 +38,6 @@ Reads FASTA files and provides:
 - File Handling
 - Sequence Analysis
 
-## Repository Structure
-
-Bioinformatics_Python_Projects/
-
-1. DNA_to_RNA
-2. GC_Content
-3. Reverse_Complement
-4. Nucleotide_Counter
-5. RNA_to_Protein
-6. FASTA_Analyzer
-7. README.md
-
 ## Author
 
 Snigdha Maiti
