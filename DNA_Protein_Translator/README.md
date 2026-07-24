@@ -21,5 +21,5 @@ This project translates a DNA sequence into its corresponding protein sequence u
 - String slicing
 - Conditional statements
 
----
+
 
