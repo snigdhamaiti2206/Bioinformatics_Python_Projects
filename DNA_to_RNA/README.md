@@ -21,7 +21,6 @@ During transcription, RNA polymerase synthesizes mRNA from a DNA template strand
 - Functions
 - String manipulation
 - User input
-- bioinformatics sequence analysis
 
 ## Author
 
