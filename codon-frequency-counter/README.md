@@ -39,35 +39,6 @@ Python 3.x
 
 No external libraries are needed.
 
-## How to Run
-
-```bash
-python codon_counter.py
-```
-
-Enter:
-
-```
-sample_dna.txt
-```
-
-## Example Output
-
-```
-Codon Frequency
-
-AAA : 1
-ATG : 1
-GAT : 1
-GCG : 1
-GCT : 3
-GGC : 1
-TAA : 1
-TTA : 1
-
-Total Codons: 10
-```
-
 ## Author
 
 Snigdha Maiti 
