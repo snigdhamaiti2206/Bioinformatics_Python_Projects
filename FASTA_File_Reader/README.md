@@ -24,7 +24,6 @@ ATGGTGCACCTGACTCCTGAGGAGAAGTCT
 ## Output
 
 ```
-==================================================
 Sequence Name : Human_Hemoglobin
 Sequence Length : 31
 A : 6
