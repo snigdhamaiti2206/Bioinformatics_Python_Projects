@@ -11,8 +11,6 @@ Base pairing rules:
 
 The program first reverses the DNA sequence and then replaces each nucleotide with its complementary base.
 
----
-
 ## Features
 
 - Accepts DNA sequence from the user
@@ -20,13 +18,9 @@ The program first reverses the DNA sequence and then replaces each nucleotide wi
 - Detects invalid nucleotides
 - Generates reverse complement
 
----
-
 ## Requirements
 
 - Python 3.x
-
----
 
 ## How to Run
 
@@ -48,8 +42,6 @@ Run the program
 python reverse_complement.py
 ```
 
----
-
 ## Example
 
 Input
@@ -64,8 +56,6 @@ Output
 TACGCAT
 ```
 
----
-
 ## Concepts Used
 
 - Functions
@@ -75,16 +65,12 @@ TACGCAT
 - Conditional statements
 - Input validation
 
----
-
 ## Applications
 
 - Bioinformatics
 - Genomics
 - DNA sequence analysis
 - Molecular biology research
-
----
 
 ## Author
 
