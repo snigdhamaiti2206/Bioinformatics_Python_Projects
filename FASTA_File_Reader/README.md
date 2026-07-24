@@ -39,7 +39,6 @@ GC Content : 58.06%
 - Functions
 - Loops
 - String Operations
-- Basic Bioinformatics
   
 ## Author
 
