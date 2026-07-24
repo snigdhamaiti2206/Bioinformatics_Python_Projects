@@ -63,7 +63,6 @@ TACGCAT
 - Loops
 - String slicing
 - Conditional statements
-- Input validation
 
 ## Applications
 
