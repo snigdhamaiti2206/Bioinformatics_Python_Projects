@@ -12,7 +12,7 @@ DNA:
 
 ATGGCTGCTAAA
 
-Codons:
+Codons :
 
 ATG
 GCT
