@@ -4,8 +4,6 @@
 
 This project translates a DNA sequence into its corresponding protein sequence using the standard genetic code.
 
----
-
 ## Features
 
 - Accepts DNA sequence from user
