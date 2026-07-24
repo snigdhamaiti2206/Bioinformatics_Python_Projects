@@ -10,7 +10,6 @@ Converts a DNA sequence into its corresponding mRNA sequence.
 Example:
 
 DNA: ATGCCGTTA
-
 RNA: AUGCCGUUA
 
 ### GC Content Calculator
