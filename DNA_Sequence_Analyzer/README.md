@@ -7,7 +7,6 @@ A Python program that analyzes a DNA sequence.
 - Counts A, T, G and C
 - Calculates sequence length
 - Calculates GC Content
-- Validates DNA sequence
 
 ## Example
 
