@@ -1,0 +1,39 @@
+# DNA Sequence Analyzer
+
+A beginner Python project for biotechnology and bioinformatics students.
+
+## Features
+
+- Accepts DNA sequence from user
+- Checks if sequence is valid
+- Calculates:
+  - Sequence length
+  - Number of A, T, G and C bases
+  - GC Content (%)
+  - AT Content (%)
+
+## Run
+
+```bash
+python dna_analyzer.py
+```
+
+## Example
+
+Input:
+
+```
+ATGCGTATCGGA
+```
+
+Output:
+
+```
+Length = 12
+A = 3
+T = 3
+G = 4
+C = 2
+GC Content = 50%
+AT Content = 50%
+```
