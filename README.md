@@ -33,11 +33,11 @@ Reads FASTA files and provides:
 
 ## Technologies Used
 
-- Python 3
+- Python 
 - Bioinformatics Algorithms
 - File Handling
 - Sequence Analysis
-
+  
 ## Author
 
 Snigdha Maiti
